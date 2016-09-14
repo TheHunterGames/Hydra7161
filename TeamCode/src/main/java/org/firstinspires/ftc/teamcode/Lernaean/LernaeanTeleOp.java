@@ -14,6 +14,7 @@ public class LernaeanTeleOp extends LernaeanOpMode {
     @Override
     public void loop(){
 
+        //booleans YAY!
         if(gamepad1.y){
             if (!isrightRightOut) {
                 rightRightOut();

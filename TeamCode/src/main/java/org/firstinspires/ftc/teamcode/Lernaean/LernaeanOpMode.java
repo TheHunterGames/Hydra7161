@@ -37,7 +37,7 @@ public abstract class LernaeanOpMode extends OpMode {
     private final double LEFT_LEFT_OUT = 0;
     private final double LEFT_LEFT_IN = 1;
 
-
+//booleans YAY!
 
     @Override
     public void init() {
